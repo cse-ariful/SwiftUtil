@@ -1,4 +1,3 @@
-Sure, here is a Readme.md for your Swift package:
 
 # SwiftUtil
 
